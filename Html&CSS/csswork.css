@@ -1,0 +1,44 @@
+.bord{ text-align:center;
+    font-size:50px;
+    color:pink;
+font-family:Engravers MT;
+text-decoration:underline;
+text-decoration-color:pink;
+text-decoration-style:dashed;
+text-transform:capitalize;
+text-shadow:3px 3px red;
+}
+.txt{text-indent:100px;
+font-size:x-large;
+text-align:justify;
+letter-spacing:2px;
+word-spacing:5px;
+line-height:50px;
+font-family:Chiller;
+font-variant:small-caps;
+font-weight:lighter;
+}
+.txt1{
+font-family:Cooper;
+}
+a{text-decoration:none;
+
+}
+span.sp1{background-color:pink;
+
+color:white;
+}
+span.sp{ background-color:#505000;
+border-bottom-style:dotted;
+color:white;
+vertical-align:bottom;
+
+     }
+.p{border-radius:15px 15px;
+text-align;justify;
+border:3.5px solid rgba(255,0,0,0.4);
+background-color:lightgrey;
+outline:4px dashed rgba(255,0,0,0.4);
+
+outline-offset:4px;
+}

@@ -1,0 +1,20 @@
+
+.image{
+
+width:70%;
+min-height:40px;
+border:2px solid;
+background-image:linear-gradient(black,blue,red),url("ph1.jpg");
+background-blend-mode:hue;
+background-position:50% 50%;
+background-size:500px 400px;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:0% 0%;
+filter:sepia(30%);
+
+}
+p{
+text-align:justify;
+color:green;
+}

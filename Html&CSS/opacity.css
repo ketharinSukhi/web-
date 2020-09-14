@@ -1,0 +1,20 @@
+.image{
+width:100%;
+height:1000px;
+background-image:url("ph1.jpg");
+background-repeat:no-repeat;
+
+}
+.b{
+width:300px;
+height:50px;
+border:2px solid;
+background-color:pink;
+opacity:0.5;
+margin-left:300px;
+}
+p{
+font-size:20px;
+font-variant:small-caps;
+padding-left:30px;
+}
